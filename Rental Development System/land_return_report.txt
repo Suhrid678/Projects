@@ -1,0 +1,11 @@
+Customer Name: suhrid shrestha	Kitta Number: 231
+City/District:  Pokhara	Facing:  East
+Land Area(in anna): 5	Return date: 2024-05-19 14:54:43.431854
+Duration(months): 10	Total rental Amount: 30000000.0
+Fine for returning late: 1200000.0
+
+Customer Name: suhrid shrestha	Kitta Number: 232
+City/District:  Lalitpur	Facing:  South
+Land Area(in anna): 10	Return date: 2024-05-19 14:54:57.001340
+Duration(months): 10	Total rental Amount: 40000000.0
+

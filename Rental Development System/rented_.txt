@@ -1,0 +1,12 @@
+Customer Name: suhrid shrestha	Kitta Number: 230
+City/District:  Kathmandu	Facing:  North
+Land Area(in anna): 4	Rent start date: 2024-05-19 10:40:42
+Duration(months): 5	Total rental Amount: 22500000.0
+Customer Name: suhrid shrestha	Kitta Number: 231
+City/District:  Pokhara	Facing:  East
+Land Area(in anna): 5	Rent start date: 2024-05-19 14:54:19
+Duration(months): 7	Total rental Amount: 21000000.0
+Customer Name: suhrid shrestha	Kitta Number: 232
+City/District:  Lalitpur	Facing:  South
+Land Area(in anna): 10	Rent start date: 2024-05-19 14:54:33
+Duration(months): 10	Total rental Amount: 40000000.0

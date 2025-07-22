@@ -1,0 +1,4 @@
+230, Kathmandu, North,4, 4500000,Not Available
+231, Pokhara, East,5, 3000000,Available
+232, Lalitpur, South,10, 4000000,Available
+233, Bhaktapur, West,20, 2800000,Available
